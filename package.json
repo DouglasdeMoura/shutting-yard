@@ -1,0 +1,21 @@
+{
+  "name": "shutting-yard",
+  "version": "1.0.0",
+  "description": "Djikstra's shutting-yard algorithim in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "mathematics",
+    "postfix",
+    "rpn",
+    "calculator"
+  ],
+  "author": "Douglas Moura",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
